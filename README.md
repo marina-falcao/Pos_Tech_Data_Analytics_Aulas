@@ -8,6 +8,7 @@ Cursos de especialização técnica para graduados (lato sensu) desenhados por e
 * Fase 3: Big Data
 * Fase 4: Data Viz and Production Models
 * Fase 5: Deep Learning and Unstructured Data
+
 Algumas das ferramentas e frameworks utilizados durante o curso são: Spark, BigQuery, PowerBI, Streamlit, amparados pela linguagem Python e técnicas de Machine e Deep Learning.
 
 
